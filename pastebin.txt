@@ -1,0 +1,61 @@
+Acquisto biglietti
+	- https://www.musement.com/:
+		- ricerca musei (e tanto altro) in tutt'Italia;
+		- ricerca esperienze in tutto il Mondo;
+		- ricerca per monumento storico di tutte le città;
+		- oltre alla visita singola del monumento, si è "forzati" ad acquistare anche altre esperienze.
+		Preacquisto biglietto:
+			- informazioni su cosa si farà acquistando il pacchetto, e cosa è incluso (e cosa non);
+			- informazioni tariffe del monumento (bene culturale)
+			- informazioni del luogo (dov'è)
+			- informazioni importanti da ricordare
+			- informazioni orari visite
+			- recensioni utenti che hanno già acquistato l'esperienza
+		Bottone verifica disponibilità:
+			- lo si preme, si apre un calendario con i possibili giorni in cui visitare il monumento (prezzi sempre uguali nel caso della Torre di Pisa)
+			- si seleziona la data, e successivamente abbiamo più opzioni disponibili (come ad esempio solo salta fila)
+			- una volta che si sta per pagare, il sito ci mostra altre esperienze correlate a quella che stiamo comprando
+		Pagamento del biglietto:
+			- informazioni che dobbiamo dare: nome, cognome ed indirizzo e-mail, inoltre possibilità di ricevere le notifiche gratuitamente tramite SMS;
+			- pagamento attraverso: carta di credito, paypal, iDeal, Google Pay
+			- riepilogo dell'ordine, con possibilità di aggiungere codici sconto
+			- da notare che si scopre, solo alla fine, che ci sono tasse di commissione nei confronti del sito web, prima di questa pagina non c'era scritto da alcuna parte
+			- Però non è richiesta alcuna registrazione al sito web.
+		Login/registrazione:
+			- volendo ci si può registrare al sito web solo tramite facebook. Comunque sia, è possibile acquistare biglietti anche senza effettuare la registrazione (quanto pare).
+			
+	- https://www.tiqets.com (visto però su app):
+		Sezione scopri:
+			- ci dà una lista di "attrazioni" nelle vicinanze, molto comodo mi fa vedere tutto ciò che posso visitare nelle vicinanze;
+			- possibilità di visualizzare anche le città nelle vicinanze (con relative attrazioni)
+			- poi abbiamo delle città suggerite (le maggiori italiane)
+		
+		Sezione mappa:
+			- possiamo visualizzare sulla mappa (google maps) tutte le attrazioni che abbiamo nelle vicinanze
+			- premendo su una "goccia" nella mappa, ci dà il nome del bene culturale (se è un bene culturale) e la possibilità di verificare la disponibilità cliccandoci:
+				- cliccandoci, ci si apre una pagina con:
+					- numero recensioni & rating visita;
+					- dove è situato il bene culturale;
+					- una panoramica della visita (durata, descrizione);
+					- informazioni riguardo il biglietto (informaizoni importanti, cosa è incluso, le istruzioni, e le informazioni sulla cancellazione);
+					- infine abbiamo la lista delle recensioni con anche suggerimenti di beni culturali nelle vicinanze.
+					- Bottone controlla la disponibilità:
+						- ci fa innanzitutto selezionare una data e un orario;
+						- selezione quantità biglietti (ordinari o ridotti), e possibilità di inserire un codice (o più?) sconto;
+						- ricapitolazione acquisto;
+						- possibilità di evitare la registrazione per l'acquisto: dovremo inserire manualmente i dati personali, altrimenti sarà fatto tutto in automatico accedendo con facebook o con google;
+						- pagamento effettuabile con carta di credito o paypal.
+						
+						
+		Sezione i miei biglietti:
+			- per visualizzarli bisogna comunque accedere con indirizzo email, oppure attraverso facebook/google (questo vale come una registrazione)
+			
+		Lista preferiti:
+			- possibilità di inserire le migliori attrazioni (ti riporta a sezione scopri)
+			
+		Sezione opzioni:
+			- lista di opzioni per l'applicazione come quale valuta utilizzare, notifiche, FAQ e termini e condizioni.
+			
+		Generale:
+			- quanto pare non c'è la possibilità di cancellare la prenotazione;
+			- anche qui ci sono le commissioni da pagare sul biglietti.
