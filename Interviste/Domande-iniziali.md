@@ -1,17 +1,26 @@
 # Domande di massima per interviste
 
-- Sei solito/a visitare monumenti e/o musei?
-- In che maniera ti informi al riguardo?
+- Domanda sulla frequenza in cui vengono visitati i musei
+    - interesse generale dell'argomento
+- Domanda su come ci si informa al riguardo
     - orari
     - posizione
     - promozioni
-- Ti interesserebbe un'app per facilitarne la ricerca e la scoperta nella tua città?
-- Nel caso di visite a pagamento come preferisci pagare?
-- Cosa ne pensi delle visite guidate?
+- Domanda sul nostro progetto di applicazione
+    - interesse
+    - utilità
+    - consigli
+- Domanda sui metodi di pagamento
+- Domanda sulle visite guidate
     - utilità
     - costo
-- Cosa ne pensi delle visite gratuite offerte dallo Stato?
-- Per quanto riguarda gli sconti universitari, cosa ne pensi? Dovrebbero esserci più offerte?
-- Hai mai atteso per troppo tempo in fila per acquistare il biglietto tanto da decidere di rinunciare alla visita? 
-	- utilità dei biglietti saltafila
-- Tieni conto delle recensioni degli altri utenti nella decisione di quale bene culturale visitare?
+- Domanda sulle visite gratuite
+    - conoscenza dell'argomento
+    - interesse
+- Domanda su sconti universitari
+- Domanda sui tempi di attesa in fila
+    - frequenza di rinunce alla visita in caso di troppa fila
+    - utilità dei biglietti saltafila
+- Domanda sulle recensioni dei beni culturali
+    - considerazione delle recensioni altrui prima di una visita
+    - propensione a rilasciare recensioni dopo una visita
