@@ -1,0 +1,58 @@
+\documentclass[12pt]{article}
+\usepackage[italian]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{titlepic} % redefines the \maketitle command to include a picture on your title page, that you provide via the \titlepic command
+\usepackage{natbib}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,        % color of internal links           %% Andrea
+    citecolor=black,        % color of links to bibliography    %% Andrea
+    filecolor=blue,         % color of file links               %% Andrea
+    urlcolor=blue,          % color of external links           %% Andrea
+}
+
+\title{Progetto Interazione Uomo Macchina}
+\date{A.A. 2019/2020}
+\setcounter{page}{0}
+
+\makeatletter
+\def\projectName{Beni culturali}
+\let\documentTitle\@title    
+\let\academicYear\@date
+\makeatother
+
+\begin{document}
+\begin{titlepage}
+	\centering
+    \vspace*{0.5 cm}
+    \includegraphics{logosapientini.png}\\[0.75 cm]
+%    \textsc{\large Progetto Interazione Uomo Macchina}\\[0.5 cm]
+	\textsc{\textit{Università La Sapienza}, Informatica}\\[0.25 cm]
+	\textsc{\academicYear}\\[0.5 cm]
+	\rule{\linewidth}{0.2 mm} \\[0.4 cm]
+	\textsc{\large \documentTitle}\\[0.4 cm]
+	%\rule{\linewidth}{0.2 mm} \\[0.4 cm]
+	\textsc{\Huge \projectName}\\
+	\rule{\linewidth}{0.2 mm} \\[1.5 cm]
+	
+	\large
+	Alessio Berardi, 1796857\\[0.2 cm]
+	Andrea Gasparini, 1813486\\[0.2 cm]
+    Edoardo Di Paolo, 1728334\\[0.2 cm]
+    Enrico Graziani, 1806141\\[0.2 cm]
+    Riccardo La Marca, 1795030\\[0.2 cm]
+\end{titlepage}
+
+\tableofcontents
+\pagebreak
+
+\section{Introduzione al progetto}
+
+
+\input{documents/interviste.tex}
+
+\end{document}
