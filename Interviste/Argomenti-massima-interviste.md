@@ -14,10 +14,9 @@
 - Domanda sulle visite guidate
     - utilità
     - costo
-- Domanda sulle visite gratuite
+- Domanda sulle visite gratuite e su sconti universitari
     - conoscenza dell'argomento
     - interesse
-- Domanda su sconti universitari
 - Domanda sui tempi di attesa in fila
     - frequenza di rinunce alla visita in caso di troppa fila
     - utilità dei biglietti saltafila
