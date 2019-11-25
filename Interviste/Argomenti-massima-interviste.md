@@ -1,4 +1,4 @@
-# Domande di massima per interviste
+# Argomenti di massima per interviste
 
 - Domanda sulla frequenza in cui vengono visitati i musei
     - interesse generale dell'argomento
@@ -10,7 +10,7 @@
     - interesse
     - utilità
     - consigli
-- Domanda sui metodi di pagamento
+- ~~Domanda sui metodi di pagamento~~
 - Domanda sulle visite guidate
     - utilità
     - costo
@@ -22,5 +22,5 @@
     - frequenza di rinunce alla visita in caso di troppa fila
     - utilità dei biglietti saltafila
 - Domanda sulle recensioni dei beni culturali
-    - considerazione delle recensioni altrui prima di una visita
-    - propensione a rilasciare recensioni dopo una visita
+    - considerazione delle recensioni altrui e/o della valutazione media prima di una visita
+    - propensione a rilasciare recensioni e/o una valutazione dopo una visita
