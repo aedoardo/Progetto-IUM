@@ -1,11 +1,10 @@
-\documentclass[12pt]{article}
+\documentclass[11pt]{article}
 \usepackage[italian]{babel}
 \usepackage[utf8]{inputenc}
 
 \usepackage{titlepic} % redefines the \maketitle command to include a picture on your title page, that you provide via the \titlepic command
 \usepackage{natbib}
 \usepackage{graphicx}
-\graphicspath{{images/}}
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
@@ -29,7 +28,7 @@
 \begin{titlepage}
 	\centering
     \vspace*{0.5 cm}
-    \includegraphics{logosapientini.png}\\[0.75 cm]
+    \includegraphics{images/logosapientini.png}\\[0.75 cm]
 %    \textsc{\large Progetto Interazione Uomo Macchina}\\[0.5 cm]
 	\textsc{\textit{Università La Sapienza}, Informatica}\\[0.25 cm]
 	\textsc{\academicYear}\\[0.5 cm]
@@ -50,9 +49,8 @@
 \tableofcontents
 \pagebreak
 
-\section{Introduzione al progetto}
-
-
 \input{documents/interviste.tex}
+\pagebreak
+\input{documents/questionario.tex}
 
 \end{document}
