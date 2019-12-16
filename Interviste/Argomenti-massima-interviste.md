@@ -1,0 +1,21 @@
+# Argomenti di massima per interviste
+
+- Domanda sulla frequenza in cui vengono visitati i musei
+    - interesse generale dell'argomento
+- Domanda su come ci si informa al riguardo
+    - orari
+    - posizione
+    - promozioni
+- ~~Domanda sui metodi di pagamento~~
+- Domanda sulle visite guidate
+    - utilità
+    - ~~costo~~
+- Domanda sulle visite gratuite e su sconti universitari
+    - conoscenza dell'argomento
+    - interesse
+- ~~Domanda sui tempi di attesa in fila~~
+    - ~~frequenza di rinunce alla visita in caso di troppa fila~~
+    - ~~utilità dei biglietti saltafila~~
+- Domanda sulle recensioni
+    - considerazione delle recensioni altrui e/o della valutazione media prima di una visita
+    - propensione a rilasciare recensioni e/o una valutazione dopo una visita
