@@ -1,0 +1,74 @@
+\section{Prototyping}
+
+\subsection{Introduzione}
+Il prototipo Marvel è stato creato con \textbf{Android} come piattaforma di riferimento e comprende i seguenti task:
+\begin{itemize}
+    \item \textit{Selezione  Preferenze};
+    \item \textit{Ricerca con Filtri};
+    \item \textit{Notifica} (in base agli interessi);
+    \item \textit{Unione a Visita di Gruppo}.
+\end{itemize}
+
+Il prototipo è stato sviluppato attraverso un approccio \textbf{Incrementale} ed \textbf{Evolutivo}. Abbiamo quindi aggiunto i task al prototipo uno per volta, cominciando da subito con gli \textit{user test}. In base ai risultati dei test è stato deciso ogni volta se effettuare un'ulteriore iterazione per migliorare il prototipo del singolo task o se fosse possibile procedere direttamente al successivo (nel caso non fossero stati riscontrati problemi). 
+
+\paragraph{}
+Durante le fasi di test abbiamo utilizzato la tecnica del \textbf{Think Aloud}, chiedendo ad ogni utente di descrivere passo passo le azioni che avrebbero svolto e di dire che cosa pensavano durante il test stesso.
+Gli utenti selezionati per i test sono stati \textbf{4} e son stati sempre gli stessi.
+
+\subsection{Iterazioni}
+Le iterazioni seguenti rappresentano le fasi di prototipazione che abbiamo effettuato. A seguito di ognuna di esse sono stati effettuati gli \textit{user test}, così da poterne valutare i risultati e procedere con un'ulteriore iterazione.
+
+\subsubsection{Iterazione 1}
+In questa iterazione abbiamo implementato il task \textbf{Seleziona Preferenze}. Durante i test ci è stato fatto notare che non era possibile evitare di scegliere alcuna preferenza. Inoltre non era chiaro se le preferenze fossero state salvate o meno.
+
+\subsubsection{Iterazione 2}
+In questa iterazione abbiamo modificato il task \textbf{Seleziona Preferenze} in base ai risultati dei precedenti test, aggiungendo un bottone \textbf{``SALTA''} e una pagina di conferma dopo la selezione delle proprie preferenze. A seguito di ulteriori test non abbiamo riscontrato alcun problema.
+
+\subsubsection{Iterazione 3}
+In questa iterazione è stato implementato il task \textbf{Ricerca con Filtri}.
+Grazie agli user test è emerso che non fosse chiaro che per filtrare si dovesse utilizzare il bottone a destra della barra di ricerca.
+
+\subsubsection{Iterazione 4}
+In questa iterazione abbiamo modificato il task \textbf{Ricerca con Filtri} in base ai risultati dei precedenti test, aggiungendo una label esplicativa al bottone per selezionare i filtri. A seguito di ulteriori test non abbiamo riscontrato alcun problema.
+
+\subsubsection{Iterazione 5}
+In questa iterazione è stato implementato il task \textbf{Notifica}. Durante gli user test non è emerso alcun problema.
+
+\subsubsection{Iterazione 6}
+In questa iterazione è stato implementato il task \textbf{Unione a Visita di Gruppo}. Durante gli user test c'è stato solamente fatto notare che il titolo dell'invito riportava solo il nome dell'amico, il che era troppo generico e poteva portare a problemi di omonimia. Oltre a ciò non è emerso alcun problema, abbiamo perciò aggiunto anche il cognome senza effettuare ulteriori test.
+
+\subsection{Seconda revisione}
+Durante la seconda revisione sono emersi alcuni problemi da risolvere.
+
+\paragraph{}
+Per quanto riguarda il task \textbf{Selezione Preferenze} sarebbe stato preferibile inserire un \textit{dialog di conferma} anziché una pagina di conferma salvataggio preferenze e inoltre la pagina non era raggiungibile dal menù ``hamburger''. 
+
+\paragraph{}
+Per quanto riguarda il task \textbf{Ricerca con Filtri} non era ben chiaro quando un filtro fosse attivo o meno. 
+
+\paragraph{}
+Per quanto riguarda il task \textbf{Notifica}, poteva risultare poco intuitivo il modo in cui si accede alla Home dopo aver aperto una notifica, abbiamo perciò effettuato nuovamente degli \textit{user test} chiedendo di andare sulla schermata Home per effettuare una ricerca in seguito alla notifica e \textbf{tutti} gli utenti sono riusciti senza difficoltà.
+
+\paragraph{}
+Per quanto riguarda l'ultimo task, \textbf{Unione a Visita di Gruppo}, c'erano alcuni problemi: nel menù ``hamburger'' mancava un badge di conteggio inviti ricevuti, gli inviti dovevano avere nel titolo il nome della mostra piuttosto che quello del mittente, il bottone di unione doveva essere più visibile e con un testo differente come ``accetta invito". Infine mancava un collegamento al museo in cui era la mostra.
+
+\subsubsection{Iterazione 7}
+In questa iterazione abbiamo modificato il task \textbf{Seleziona Preferenze} inserendo, al posto della schermata unica di conferma, un \textit{dialog} di conferma successivo al tocco del bottone \textit{continua} o \textit{salta}, ed è stato inserito il link al task nel menù ``hamburger''. Durante gli user test non è emerso alcun problema.
+
+\subsubsection{Iterazione 8}
+In questa iterazione abbiamo modificato il task \textbf{Ricerca con Filtri}, aggiungendo un colore di background al bottone \textit{filtra} quando un filtro è attivo. Durante gli user test non è emerso alcun problema, e il fatto che il bottone fosse evidenziato quando un filtro era attivo è sempre stato interpretato correttamente.
+
+\subsubsection{Iterazione 9}
+In questa iterazione abbiamo modificato il task \textbf{Unione a Visita di Gruppo}. Innanzitutto abbiamo modificato la pagina con la lista inviti mettendo come titolo principale il nome della mostra e come sottotitolo il nome del mittente. Inoltre è stato aggiunto il badge di conteggio inviti in attesa di risposta. Per quanto riguarda le singole card degli inviti, abbiamo reso il titolo cliccabile e abbiamo rimosso il bottone ``informazioni mostra'' per dar più risalto al bottone ``accetta invito''. Durante gli user test gli utenti hanno cliccato correttamente sul titolo della mostra per ottenere le informazioni relative ad essa e non hanno avuto problemi ad accettare l'invito.
+
+\subsubsection{Iterazione 10}
+In questa iterazione abbiamo aggiunto la possibilità di ``scrollare'' alcune pagine in quanto durante la maggior parte dei test, seppur non ci sia mai stato fatto presente esplicitamente come problema, abbiamo notato che gli utenti tentavano spesso di scorrere verso il basso per visualizzare più mostre nelle schermate relative alla ricerca o per cercare ulteriori informazioni nelle schermate relative a Mostre o Musei.
+
+\subsection{Link ai prototipi Marvel}
+I prototipi realizzati sono consultabili direttamente su Marvel in due diverse versioni, la prima con le ultime modifiche che precedevano la seconda revisione e la seconda con tutte le successive modifiche finali:
+\begin{enumerate}
+    \item \url{https://marvelapp.com/5g1574g}
+    \item \url{https://marvelapp.com/5gji0j3}
+\end{enumerate}
+
+Per accedere direttamente ad ogni singolo task è presente la voce \textit{Opzioni per Sviluppatori (Prototyping)} nel menù ``hamburger'' laterale.
