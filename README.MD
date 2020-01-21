@@ -1,5 +1,4 @@
 # Progetto Interazione Uomo-Macchina - A.A. 2019/2020
-## Sapientini Dream Team
 
 Progetto relativo all'esame di Interazione Uomo-Macchina del gruppo _Sapientini Dream Team_ - Università La Sapienza
 
